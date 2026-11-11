@@ -114,4 +114,4 @@ Dockerfile · Makefile · pyproject.toml · config.yaml · .pre-commit-config.ya
 
 ## Author
 
-Nathan Chen — PhD in economics. Code MIT, data CC BY 4.0.
+Nathan Chen. Code MIT, data CC BY 4.0.
